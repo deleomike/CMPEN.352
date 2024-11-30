@@ -1,0 +1,23 @@
+___awdiv: CODE, 1312 0 84
+__stringdata: STRCODE, 1536 0 140
+_ISR: CODE, 4 0 15
+_set_at: CODE, 1396 0 74
+___awmod: CODE, 4024 0 72
+_main: CODE, 44 0 1093
+_LCD_SendHalfBlank: CODE, 1470 0 64
+_LCD_SendPhrase: CODE, 3818 0 50
+_LCD_SendString: CODE, 3970 0 54
+_Timer0Handler: CODE, 1800 0 109
+_LCD_SendCharacter: CODE, 3868 0 51
+__initialization: CODE, 21 0 19
+_MCU_initialize: CODE, 3783 0 35
+_set_at_range: CODE, 3919 0 51
+_LCD_SendCommand: CODE, 3734 0 21
+_find: CODE, 1909 0 90
+_LCD_ClearDisplay: CODE, 2044 0 4
+_new_string: CODE, 1676 0 124
+_LCD_initialize: CODE, 1999 0 45
+_num2str: CODE, 1137 0 175
+_LCD_ShowTurn: CODE, 3755 0 28
+_Random: CODE, 3725 0 3
+Total: 2401
